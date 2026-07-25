@@ -47,19 +47,19 @@ export const courses: Course[] = [
 export const enrollments: Enrollment[] = [
   {
     studentId: "680610002",
-    courseNo: "261207",
+    courseId: "261207",
   },
   {
     studentId: "680610002",
-    courseNo: "261497",
+    courseId: "261497",
   },
   {
     studentId: "680615003",
-    courseNo: "269101",
+    courseId: "269101",
   },
   {
     studentId: "680615003",
-    courseNo: "261497",
+    courseId: "261497",
   },
 ];
 
